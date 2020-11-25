@@ -19,3 +19,6 @@ def letter_counter(input_str):
 def plot(data):
     plt.bar(range(len(data)), list(data.values()), align='center')
     plt.xticks(range(len(data)), list(data.keys()))
+
+
+#boo
